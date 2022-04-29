@@ -7,7 +7,6 @@ import com.bumptech.glide.Glide
 import com.example.crudbytrip.R
 import com.example.crudbytrip.model.DataItem
 import kotlinx.android.synthetic.main.activity_update_delete.*
-
 class UpdateDeleteActivity : AppCompatActivity() {
 
     var updateDeletePresenter: UpdateDeletePresenter? = null
